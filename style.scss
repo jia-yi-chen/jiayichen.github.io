@@ -30,7 +30,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 1040px;
+  max-width: 900px;
   padding: 0 10px;
   width: 100%;
 }
@@ -157,7 +157,7 @@ img {
 
 .wrapper-masthead-plus {
 
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
 .wrapper-masthead {
@@ -194,7 +194,7 @@ img {
 
 .site-info {
   float: left;
-  margin-top: -32px;
+  margin-top: -33px;
   @include mobile {
     float: none;
     display: block;
@@ -203,38 +203,44 @@ img {
 }
 
 .site-name {
-  margin-bottom: 5px;
+  margin-bottom: 2px;
   
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 500;
+  font-weight: 530;
   font-size: 40px;
-  letter-spacing: 0.2px;
+  letter-spacing: 0px;
+
+  @include mobile {
+    font-weight: 300;
+    font-size: 28px;
+    letter-spacing: 1px;
+    margin: 0;
+    font-size: 28px;
+  }
 }
 
 .site-description {
-  margin: -5px 0 3px 0;
+  margin: -5px 0 2px 0;
   color: $gray;
   font-size: 18px;
 
   @include mobile {
     margin: 3px 0;
+    margin: -5px 0 0 0;
+    font-size: 16px;
   }
 }
 
 .site-contact {
-  margin: -5px 0 3px 0;
+  margin: -5px 0 4px 0;
   color: $gray;
   font-size: 18px;
   display: block;
 
-  .b{
-
-  }
-
   @include mobile {
-    margin: 3px 0;
+    display: none;
   }
 }
 
