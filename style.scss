@@ -194,7 +194,7 @@ img {
 
 .site-info {
   float: left;
-  margin-top: -33px;
+  margin-top: -38px;
   @include mobile {
     float: none;
     display: block;
@@ -228,7 +228,6 @@ img {
 
   @include mobile {
     margin: 3px 0;
-    margin: -5px 0 0 0;
     font-size: 16px;
   }
 }
