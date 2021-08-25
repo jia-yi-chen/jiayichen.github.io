@@ -157,12 +157,12 @@ img {
 
 .wrapper-masthead-plus {
 
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .wrapper-masthead {
 
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -176,9 +176,10 @@ img {
 
 .site-avatar {
   float: left;
-  width: 175px;
-  height: 230px;
+  width: 275px; 
   margin-right: 28px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 
   @include mobile {
     float: none;
@@ -193,7 +194,7 @@ img {
 
 .site-info {
   float: left;
-  margin-top: -32px;
+  margin-top: -42px;
   @include mobile {
     float: none;
     display: block;
@@ -202,14 +203,14 @@ img {
 }
 
 .site-name {
-  margin-bottom: 9px;
+  margin-bottom: 5px;
   
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 500;
-  font-size: 37px;
-  letter-spacing: 0.3px;
+  font-size: 40px;
+  letter-spacing: 0.2px;
 }
 
 .site-description {
