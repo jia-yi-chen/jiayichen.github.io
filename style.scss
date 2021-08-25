@@ -157,7 +157,6 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  border-right: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -183,7 +182,7 @@ img {
 
 .site-info {
   float: left;
-
+  margin-top: 100px;
   @include mobile {
     float: none;
     display: block;
@@ -193,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  margin-top: 23px;
+  
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
