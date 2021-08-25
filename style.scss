@@ -23,9 +23,14 @@ body {
   color: $darkGray;
 }
 
+.containerplus {
+  margin: 0 auto;
+  width: 100%;
+}
+
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1040px;
   padding: 0 10px;
   width: 100%;
 }
@@ -150,12 +155,18 @@ img {
 // .masthead
 //
 
+.wrapper-masthead-plus {
+
+  margin-bottom: 15px;
+}
+
 .wrapper-masthead {
+
   margin-bottom: 50px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -165,9 +176,9 @@ img {
 
 .site-avatar {
   float: left;
-  width: 170px;
-  height: 170px;
-  margin-right: 18px;
+  width: 175px;
+  height: 230px;
+  margin-right: 28px;
 
   @include mobile {
     float: none;
@@ -176,13 +187,13 @@ img {
   }
 
   img {
-    border-radius: 13px;
+    border-radius: 16px;
   }
 }
 
 .site-info {
   float: left;
-  margin-top: 100px;
+  margin-top: -32px;
   @include mobile {
     float: none;
     display: block;
@@ -191,20 +202,35 @@ img {
 }
 
 .site-name {
-  margin: 0;
+  margin-bottom: 9px;
   
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 37px;
+  letter-spacing: 0.3px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: -5px 0 3px 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 18px;
+
+  @include mobile {
+    margin: 3px 0;
+  }
+}
+
+.site-contact {
+  margin: -5px 0 3px 0;
+  color: $gray;
+  font-size: 18px;
+  display: block;
+
+  .b{
+
+  }
 
   @include mobile {
     margin: 3px 0;
@@ -212,10 +238,14 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 150px; // @TODO: Vertically middle align
+  float: none;
+
+  padding: 0;
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 20px;
+
+  overflow: hidden;
+  background-color: #333;
 
   @include mobile {
     float: none;
@@ -225,11 +255,15 @@ nav {
   }
 
   a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+
+
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 8px;
+    margin: 0 8px;
+    text-decoration: none;
 
     @include mobile {
       margin: 0 10px;

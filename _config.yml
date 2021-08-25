@@ -3,11 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jiayi Chen (陈嘉怡)
+name: Jiayi Chen
 
 # Short bio or description (displayed in the header)
-description: Ph.D. Student @ UVa
+description: Ph.D. Candidate
 
+department: Department of Computer Science
+institution: University of Virginia
+email: jc4td at virginia.edu
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://jia-yi-chen.github.io/images/icon2.jpg
 #

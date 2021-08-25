@@ -16,6 +16,14 @@
   </head>
 
   <body>
+
+    <nav class="containerplus wrapper-masthead-plus">
+      <div class="container">
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/about">About</a>
+      </div>
+    </nav>
+
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -24,16 +32,29 @@
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
-          </div>
+            <p class="site-description"> {{ site.department }} </p>
+            <p class="site-description">
+              {{ site.institution }}
+            </p>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+            <!-- <p class="site-contact" style="font-weight: bold; margin-top: 18px;"> Location:
+            </p> -->
+            <p class="site-contact" style="margin-top: 25px;"> 
+              <b style="margin-right: 8px;">Location:</b> 85 Engineer's Way, Charlottesville, VA 22904, Unitied States 
+              
+            </p> 
+            
+            <p class="site-contact"> 
+              <b style="margin-right: 8px;">Email:</b> {{ site.email }}
+            </p> 
+
+          </div>
         </header>
       </div>
     </div>
 
+
+    
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
