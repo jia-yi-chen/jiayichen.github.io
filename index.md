@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage
+<!-- title: Homepage -->
 published: true
 ---
 
@@ -11,7 +11,7 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 My name is pronounced as tren-HOW Lee. 
 
 - [Curriculum Vitae](https://cyrilli.github.io/CV.pdf)
-- Email: cl5ev at virginia.edu
+- Email: jc4td at virginia.edu
 - Address: Rice Hall, 85 Engineer's Way, Charlottesville, VA
 
 ## **Research Interest**
