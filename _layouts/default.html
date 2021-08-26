@@ -19,8 +19,15 @@
 
     <nav class="containerplus wrapper-masthead-plus">
       <div class="container">
-        <a href="{{ site.baseurl }}/">Home</a>
-        <a href="{{ site.baseurl }}/about">About</a>
+        <a href="{{ site.baseurl }}/">About</a>
+        <a href="{{ site.baseurl }}/#pub">Publication</a>
+        <a href="{{ site.baseurl }}/#project">Project</a>
+        <a href="{{ site.baseurl }}/#award">Award</a>
+        <a href="">CV</a>
+
+        <a href="{{ site.baseurl }}/about" style="float: right;">MyArtwork</a>
+        <a href="{{ site.baseurl }}/about" style="float: right;">Blog</a>
+        <a href="" style="float: right;">Github</a>
       </div>
     </nav>
 
@@ -31,6 +38,7 @@
 
           <div class="site-info">
             <h1 class="site-name">{{ site.name }}</h1>
+              <!-- <a href="" style="margin-left: 8px;">[Curriculum Vitae]</a>   -->
             <p class="site-description">{{ site.description }}</p>
             <p class="site-description"> {{ site.department }} </p>
             <p class="site-description">
@@ -45,15 +53,35 @@
             </p> 
             
             <p class="site-contact"> 
-              <b style="margin-right: 8px;">Email:</b> {{ site.email }} 
+              <b style="margin-right: 8px;">Email:</b> {{ site.email }}   
+              <!-- <b style="margin-left: 65px;">CV:</b> <a href="" style="margin-left: 8px;">[Curriculum Vitae]</a>  <b style="margin-left: 65px;">Links:</b> <a href="" style="margin-left: 8px;">[DBLP]</a>  <a href="" style="margin-left: 8px;">[Github]</a> -->
             </p> 
+          </div>
+
+<!--           <div style="float: right;  padding-top:35px;">  
+
+              <a href="" style="margin-left: 25px;">Curriculum Vitae</a>
 
           </div>
+          <div style="float: right;  padding-top:5px;">  
+              <a href="" style="margin-left: 25px;">DBLP</a>
+
+          </div> -->
+
         </header>
+
       </div>
     </div>
 
-
+<!--     <nav>
+      <div class="container">
+        <a href="{{ site.baseurl }}/">Curriculum</a>
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/about">Publication</a>
+        <a href="{{ site.baseurl }}/about">Project</a>
+        <a href="{{ site.baseurl }}/about">Blog</a>
+      </div>
+    </nav> -->
     
     <div id="main" role="main" class="container">
       {{ content }}

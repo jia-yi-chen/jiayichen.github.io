@@ -8,31 +8,48 @@ published: true
 <!-- I am a PhD candidate in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). 
 Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively, where I worked on machine learning for prognostic health monitoring and robotics. -->
 
-[Curriculum Vitae]()
+
 
 ## **Research Interest**
-<p style="padding-left: 45px;">I am broadly interested in Machine Learning and Data Mining. In particular, my current research mainly focuses on Multimodal Machine Learning, Vision & Language, Few-shot Learning, Meta-Learning, and Graph Mining. I am also interested in AI-guided Computer Graphics and AR/VR.</p>>
+<p style="padding-left: 35px;">I am broadly interested in Machine Learning and Data Mining. In particular, my current research mainly focuses on Multimodal Machine Learning, Vision & Language, Few-shot Learning, Meta-Learning, and Graph Mining. I am also interested in AI-guided Computer Graphics and AR/VR.</p>
 
 
+<!-- ## **News** -->
+<!-- <div class="masthead" style="margin-top: -30px;"> 
+	<h2 style="text-weight=bold;"> News</h2>
+	<p style="padding-left: 35px;">
+		<ul>
+			<li> One paper accepted by CIKM 2021.</li>
+			<li> One paper accepted by KDD 2020.</li>
+		</ul>
+	</p>
+
+</div>
+ -->
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 
 ## **Education**
-- **Ph.D.** in *Computer Science* at [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ))
-  <!-- - Research Field: -->
-- **M.S.** in *Control Science and Engineering: Pattern Recognition and Intelligent Systems* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/) （Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html)）
-  <!-- - **Research Field**:  Computer Vision, Deep Learning, Image/Video Processing, and Computer Graphics. I also worked on several projects in the areas of Robotics (Drones).  -->
-- **B.E.** in *Automation* @ [School of Automation Science and Technology, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm)
-- Early Entrance College Program ([Honors Youth Program](https://jia-yi-chen.github.io/images/HYP.pdf)) @ Xi'an Jiaotong University 
+- **Ph.D.** in *Computer Science* at [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) 
+  - Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ)
+  - Research Area: data mining, multimodal machine learning, few-shot learning, differencial privacy, reinforcement learning.
+- **M.S.** in *Pattern Recognition and Intelligent Systems* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/)
+<!-- Control Science and Engineering:  -->
+  - Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html)
+  - Research Area:  Computer Vision, Robotics, Computer Graphics, Image/Video Processing. 
+- **B.E.** in *Automation* @ [School of Automation Science and Technology, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm) 
+  - Early Entrance College Program ([Honors Youth Program](https://jia-yi-chen.github.io/images/HYP.pdf)) @ Xi'an Jiaotong University 
 
-
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 
 <!-- ## **News**
 - 04/14/2021: One full research paper accepted by SIGIR 2021!
 - 01/22/2021: One paper accepted by AISTATS 2021! -->
 
-
-## **Publications**
+<a name="pub"></a>
+##  **Publications**
 <!-- [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao) -->
 
 <!-- ### Since 2018 -->
@@ -49,12 +66,17 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 
 
+<div class="masthead" style="margin-top: -15px;margin-bottom: -15;"> </div>
+
+
+
+<a name="award"></a>
 ## **Selected Awards**
 
 <h4 style="margin-bottom: -15px; margin-left: 15px;"> Contest: </h4>
-- *World Top-4* in the final contest of “2016 **International** DJI Developer Competition on Drones". (*algorithm design, programming, and field test*)  <br/> [\[web\]](https://dl.djicdn.com/downloads/dev/DevChallenge2016/2016%20DJI%20Developer%20Challenge%20Official%20Rules_v1.0.pdf) [\[video\]](https://www.youtube.com/watch?v=DIRkzH3cTAM)
+- *World Top-4* in the final contest of “2016 **International** DJI Developer Competition on Drones". (*algorithm design, programming, and field test*) [\[web\]](https://dl.djicdn.com/downloads/dev/DevChallenge2016/2016%20DJI%20Developer%20Challenge%20Official%20Rules_v1.0.pdf) [\[video\]](https://www.youtube.com/watch?v=DIRkzH3cTAM)
 - *1st Prize* in “2015 China **National** Contest on Traffic-Scene Image Processing” (*team leader*)
-- *2nd Prize* in "3rd China **National** Graduate Contest on Smart-City Technology and Creative Design” (*video facial tracking module*)
+- *2nd Prize* in "3rd China **National** Graduate Contest on Smart-City Technology and Creative Design” (*video facial tracking*)
 
 <h4 style="margin: -15px 0 -15px; margin-left: 15px;"> Academic: </h4>
 - 2020 KDD Student Travel Award
@@ -72,6 +94,16 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 
 
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
+
+
+
+<a name="project"></a>
+## **Skills**
+
+
 ## **Selected Projects**
 
 
@@ -83,8 +115,6 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 
 
-
-## **Skills**
 
 
 
