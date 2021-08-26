@@ -31,13 +31,13 @@ I am also interested in AI-guided computer graphics and Smart AR/VR systems.</p>
 
 
 ## **Education**
-- **Ph.D.** in *Computer Science* at [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) 
+- **Ph.D.** in *Computer Science* @ [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) 
   <!-- - Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ) -->
   <!-- - Research interest: data mining, multimodal machine learning, few-shot learning, differencial privacy, reinforcement learning. -->
 - **M.S.** in *Pattern Recognition and Intelligent Systems, Control Science and Engineering* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/)
 <!-- Control Science and Engineering:  -->
-  - Research interest:  Computer Vision, Robotics, Computer Graphics, Image/Video Processing 
-  - Thesis: Illumination-guided Neural Artwork Generation for 2D Photographs and 3D objects (Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html) and Nanning Zheng)
+  - Research & Project areas:  Computer Vision, Computer Graphics, Image/Video Processing,  Robotics.
+  - Thesis: Illumination-guided Neural Artwork Generation for 2D Photographs and 3D Objects (Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html) and [Nanning Zheng]())
 - **B.E.** in *Automation Engineering* @ [School of Electronics and Information Engineering, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm) 
   - Early Entrance College Program ([Honors Youth Program](https://jia-yi-chen.github.io/images/HYP.pdf)) @ Xi'an Jiaotong University 
 
@@ -70,25 +70,10 @@ I am also interested in AI-guided computer graphics and Smart AR/VR systems.</p>
 
 
 
-<a name="award"></a>
-## **Selected Awards**
 
-<h4 style="margin-bottom: -15px; margin-left: 15px;"> Contest: </h4>
-- *World Top-4* in the final contest of “2016 **International** DJI Developer Competition on Drones". (*algorithm design, programming, and field test*) [\[web\]](https://dl.djicdn.com/downloads/dev/DevChallenge2016/2016%20DJI%20Developer%20Challenge%20Official%20Rules_v1.0.pdf) [\[video\]](https://www.youtube.com/watch?v=DIRkzH3cTAM)
-- *1st Prize* in “2015 China **National** Contest on Traffic-Scene Image Processing” (*team leader*)
-- *2nd Prize* in "3rd China **National** Contest on Smart-City Technology and Creative Design” (*video facial tracking*)
+<!-- 
 
-<h4 style="margin: -15px 0 -15px; margin-left: 15px;"> Academic: </h4>
-- 2020 KDD Student Travel Award
-- 2018 Best Graduate Thesis (Top 3%)
-- 2017 Suzhou Industrial Scholarship  (Top 5)
-- 2016 Outstanding Graduate Award
-- 2015 Graduate Scholarship (Top 10%)
-- 2014 Undergraduate Scholarships
-
-
-
-<!-- ## **Professional Activities**
+## **Professional Activities**
 
 - Reviewer / sub-reviewer: WSDM 2021, KDD 2021, NeurIPS, ICLR
 - Volunteer: KDD 2020
@@ -122,6 +107,25 @@ For more details, please see this page : [Projects](http://)
 
 
 
+
+<a name="award"></a>
+## **Selected Awards**
+
+<h4 style="margin-bottom: -15px; margin-left: 15px;"> Contest: </h4>
+- *World Top-4* in the final contest of “2016 **International** DJI Developer Competition on Drones". (*algorithm design, programming, and field test*) [\[web\]](https://dl.djicdn.com/downloads/dev/DevChallenge2016/2016%20DJI%20Developer%20Challenge%20Official%20Rules_v1.0.pdf) [\[video\]](https://www.youtube.com/watch?v=DIRkzH3cTAM)
+- *1st Prize* in “2015 China **National** Contest on Traffic-Scene Image Processing” (*team leader*)
+- *2nd Prize* in "3rd China **National** Contest on Smart-City Technology and Creative Design” (*video facial tracking*)
+
+<h4 style="margin: -15px 0 -15px; margin-left: 15px;"> Academic: </h4>
+- 2020 KDD Student Travel Award
+- 2018 Best Graduate Thesis (Top 3%)
+- 2017 Suzhou Industrial Scholarship  (Top 5)
+- 2016 Outstanding Graduate Award
+- 2015 Graduate Scholarship (Top 10%)
+- 2014 Undergraduate Scholarships
+
+
+
 ## **Employment**
 - Research Assistant
 - Research Assistant 
@@ -147,10 +151,10 @@ See my [artworks]()
 - Undergraduate teaching Assistant of the course - “Digital Image Processing” at Xi’an Jiaotong University. 
 - As a drone-control programmer, coordinated with the staff from a Chinese famous TV program - CCTV10 “Approaches to Science”, filming the drone-perspective scene for a documentary.
 - Designed T-shirt for all students and staff in the IAIR Institution (using Photoshop).
-- Voluntarily edited a Portfolio for ones who took the course - Art Appreciation & Creation (Architectural Design). -->
+- Voluntarily edited a Portfolio for ones who took the course - Art Appreciation & Creation (Architectural Design).
 
 
 
-
+ -->
 
 
