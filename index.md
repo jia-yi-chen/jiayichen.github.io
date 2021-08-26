@@ -11,19 +11,18 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 [Curriculum Vitae]()
 
 ## **Research Interest**
-<p style="padding-left: 45px;">I am broadly interested in Machine Learning and Data Mining. In particular, my current research mainly focuses on Multimodal Machine Learning, Vision & Language, Few-shot Learning, Meta-Learning, and Graph Neural Networks. I am also interested in AI-guided Computer Graphics and AR/VR.</p>>
+<p style="padding-left: 45px;">I am broadly interested in Machine Learning and Data Mining. In particular, my current research mainly focuses on Multimodal Machine Learning, Vision & Language, Few-shot Learning, Meta-Learning, and Graph Mining. I am also interested in AI-guided Computer Graphics and AR/VR.</p>>
 
 
 
 
 ## **Education**
-- Ph.D. in *Computer Science* @ [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ))
+- **Ph.D.** in *Computer Science* at [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ))
   <!-- - Research Field: -->
-- M.S. in *Control Science and Engineering: Pattern Recognition and Intelligent Systems* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/) （Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html)）
-  <!-- - Lab: Artificial Intelligence and Robotics -->
-  - **Research Field**:  Computer Vision, Deep Learning, Image/Video Processing, and Computer Graphics. I also worked on several projects in the areas of Robotics (Drones). 
-- B.Eng. in *Automation* @ [School of Automation Science and Technology, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm)
-  - Early Entrance College Program ([Honors Youth Program](https://jia-yi-chen.github.io/images/HYP.pdf)) @ Xi'an Jiaotong University 
+- **M.S.** in *Control Science and Engineering: Pattern Recognition and Intelligent Systems* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/) （Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html)）
+  <!-- - **Research Field**:  Computer Vision, Deep Learning, Image/Video Processing, and Computer Graphics. I also worked on several projects in the areas of Robotics (Drones).  -->
+- **B.E.** in *Automation* @ [School of Automation Science and Technology, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm)
+- Early Entrance College Program ([Honors Youth Program](https://jia-yi-chen.github.io/images/HYP.pdf)) @ Xi'an Jiaotong University 
 
 
 
