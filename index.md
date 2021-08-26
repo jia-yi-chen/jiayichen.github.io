@@ -55,13 +55,13 @@ I am also interested in AI-guided computer graphics and Smart AR/VR systems.</p>
 <!-- ### Since 2018 -->
 <!-- - [to appear] Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits
   - **Chuanhao Li**, Hongning Wang -->
-1. **Jiayi Chen**, Aidong Zhang. "TopoNet: Adaptive Topological Transduction for Data-inconsistent Few-shot Learning". *Arxiv* 2021.
-2. **Jiayi Chen**, Aidong Zhang. "HetMAML: Task-hetergeneous Model-agnostic Meta-learning for Few-shot Learning Across Modalities". ACM International Conference on Information and Knowledge Management (**CIKM**), 2021. (full paper) (acceptance rate: 271/1251=21.66%)
-3. **Jiayi Chen**, Aidong Zhang. "HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness". ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020. (research track) (acceptance rate: 216/1279=16.89%)
+1. **Jiayi Chen**, Aidong Zhang. "TopoNet: Adaptive Topological Transduction for Data-inconsistent Few-shot Learning". *Arxiv* 2021. [[PDF]()]
+2. **Jiayi Chen**, Aidong Zhang. "HetMAML: Task-hetergeneous Model-agnostic Meta-learning for Few-shot Learning Across Modalities". ACM International Conference on Information and Knowledge Management (**CIKM**), 2021. (full paper) (acceptance rate: 271/1251=21.66%) [[PDF]()]
+3. **Jiayi Chen**, Aidong Zhang. "HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness". ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020. (research track) (acceptance rate: 216/1279=16.89%) [[PDF]()]
 <!-- - **Jiayi Chen**, Xuguang Lan, Aidong Zhang. "Illumination-guided Artistic Style Transfer". *Arxiv* 2021. -->
-4. **Jiayi Chen**, Xuguang Lan, Meng Yang. "Efficient Detail-enhanced Exposure Correction based on Auto-fusion for LDR Image". 18th IEEE Multimedia Signal Processing (**MMSP**), 2016.
-5. Yinshu Zhang, **Jiayi Chen**, Xiangyu Si, Zhiqiang Tian, Xuguang Lan. "Image Artistic Style Transfer Based on Color Distribution Preprocessing". International Conference on Cognitive Systems and Information Processing (ICCSIP), 2018.
-6. Jiachen Yu, Jin Li, **Jiayi Chen**, Zhiqiang Tian, Xuguang Lan. "Multi-scale Neural Style Transfer Based on Deep Semantic Matching".  International Conference on Cognitive Systems and Information Processing (ICCSIP), 2018.
+4. **Jiayi Chen**, Xuguang Lan, Meng Yang. "Efficient Detail-enhanced Exposure Correction based on Auto-fusion for LDR Image". 18th IEEE Multimedia Signal Processing (**MMSP**), 2016. [[PDF]()]
+5. Yinshu Zhang, **Jiayi Chen**, Xiangyu Si, Zhiqiang Tian, Xuguang Lan. "Image Artistic Style Transfer Based on Color Distribution Preprocessing". International Conference on Cognitive Systems and Information Processing (ICCSIP), 2018. [[PDF]()]
+6. Jiachen Yu, Jin Li, **Jiayi Chen**, Zhiqiang Tian, Xuguang Lan. "Multi-scale Neural Style Transfer Based on Deep Semantic Matching".  International Conference on Cognitive Systems and Information Processing (ICCSIP), 2018. [[PDF]()]
 
 
 
@@ -155,6 +155,6 @@ See my [artworks]()
 
 
 
- -->
 
+ -->
 
