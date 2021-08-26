@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 1em 0 5px;
   padding: 0;
 
   @include mobile {
@@ -57,7 +57,8 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 23px;
+  line-height: 0.7;
 }
 
 h3 {
@@ -316,6 +317,7 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  color: $gray;
 }
 
 footer {

@@ -4,24 +4,35 @@ layout: page
 published: true
 ---
 
-<!-- 
-I am a PhD candidate in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). 
-Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively, where I worked on machine learning for prognostic health monitoring and robotics.
 
-
-
-- [Curriculum Vitae](https://cyrilli.github.io/CV.pdf)
-- [Github](https://github.com/jia-yi-chen/jia-yi-chen.github.io/) -->
+<!-- I am a PhD candidate in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). 
+Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively, where I worked on machine learning for prognostic health monitoring and robotics. -->
 
 
 
 ## **Research Interest**
-I am broadly interested in machine learning / statistical learning methods and their applications to information retrieval and data mining. My current research focus is contextual bandits, e.g., with consideration of non-stationary reward distribution, collaborative learning, communication efficiency / privacy in distributed setting.
+I am broadly interested in Machine Learning and Data Mining. In particular, 
 
 
 
 ## **Education**
-- 
+- Ph.D. in *Computer Science* @ [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ))
+  - Research Field:
+
+- M.S. in *Control Science and Engineering: Pattern Recognition and Intelligent Systems* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/) （Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html)）
+  <!-- - Lab: Artificial Intelligence and Robotics -->
+  - Research Field:
+
+- B.E. in *Automation* @ [School of Automation Science and Technology, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm)
+ 
+- Early-Entrance-to-Colleg Program @ Xi'an Jiaotong University ([HTP](https://jia-yi-chen.github.io/images/HYP.pdf))
+
+
+## **Personal Links**
+- [Linkedin]()
+- [Curriculum Vitae]()
+- [[Github]](https://github.com/jia-yi-chen), [[Google Scholar]](), [[DBLP]]()
+
 
 
 
@@ -32,20 +43,14 @@ I am broadly interested in machine learning / statistical learning methods and t
 
 
 ## **Publications & Preprints**
-[\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
+<!-- [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao) -->
 
-### 2021
+### Since 2018
 <!-- - [to appear] Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits
   - **Chuanhao Li**, Hongning Wang -->
-- [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
-  - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
-  - [\[paper\]](https://arxiv.org/abs/2104.03860)
-- [SIGIR'21] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
-  - **Chuanhao Li**, Qingyun Wu, Hongning Wang
-  - [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462852) [\[code\]](https://github.com/cyrilli/CoDBand)
-- [AISTATS'21] Unifying Clustered and Non-stationary Bandits
-  - **Chuanhao Li**, Qingyun Wu, Hongning Wang
-  - [\[paper\]](http://proceedings.mlr.press/v130/li21c) [\[code\]](https://github.com/cyrilli/DyClu)
+- **Jiayi Chen**, Aidong Zhang, TopoNet:  (Preprint)
+- 
+- 
 
 
 ## **Awards**
@@ -70,4 +75,8 @@ I am broadly interested in machine learning / statistical learning methods and t
 
 - Reviewer / sub-reviewer: WSDM 2021, KDD 2021
 - Volunteer: KDD 2020
+
+
+
+
 
