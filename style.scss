@@ -30,18 +30,19 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 1100px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: 'Linux Libertine';
+  color: #011820;
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 5px;
+
   padding: 0;
 
   @include mobile {
@@ -68,10 +69,17 @@ h3 {
 h4 {
   font-size: 18px;
   color: $gray;
+
+
 }
 
 p {
-  margin: 15px 0;
+  margin: 25px 0;
+  
+}
+
+b {
+  color: $gray;
 }
 
 a {
@@ -84,8 +92,10 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
+  margin: 20px 0;
+  font-size: 18px;
+  padding-left: 45px;
+
 }
 
 ul {
@@ -99,6 +109,15 @@ ol {
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
+
+li {
+  margin: 7px 7px;
+  .m{
+
+  }
+}
+
+
 
 ul ul, ol ul {
   list-style-type: circle;
@@ -170,6 +189,7 @@ img {
   padding: 10px 0;
   border-bottom: 1px solid $lightGray;
 
+
   @include mobile {
     text-align: center;
   }
@@ -195,7 +215,7 @@ img {
 
 .site-info {
   float: left;
-  margin-top: -38px;
+  margin-top: -30px;
   @include mobile {
     float: none;
     display: block;
@@ -204,7 +224,7 @@ img {
 }
 
 .site-name {
-  margin-bottom: 2px;
+  margin-bottom: 5px;
   
   color: $darkGray;
   cursor: pointer;
