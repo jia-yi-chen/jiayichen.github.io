@@ -80,14 +80,14 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 <h4 style="margin: -15px 0 -15px; margin-left: 15px;"> Academic: </h4>
 - 2020 KDD Student Travel Award
-- 2015-2016 Suzhou Industrial Scholarship  (Top 5)
-- Outstanding Graduate Award
-- Best Graduate
-- Graduate Entrance Scholarship, skipped Postgraduate Entrance Examination (Top 10%)
+- 2018 Best Graduate Thesis (Top 3%)
+- 2017 Suzhou Industrial Scholarship  (Top 5)
+- 2016 Outstanding Graduate Award
+- 2015 Graduate Scholarship (Top 10%)
 
 
-
-## **Service**
+<!-- 
+## **Professional Activities**
 
 - Reviewer / sub-reviewer: WSDM 2021, KDD 2021, NeurIPS, ICLR
 - Volunteer: KDD 2020
@@ -106,10 +106,11 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 ## **Selected Projects**
 
+Overview
+
+For more details, please see this page : [Projects](http://)
 
 
-
-<!-- ## **Personal Links** -->
 - [Linkedin]()
 - [[Github]](https://github.com/jia-yi-chen), [[Google Scholar]](), [[DBLP]]()
 
@@ -133,7 +134,7 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 ## **Volunteer & Extracurricular Activities**
 
-
+See my blogs
 
 - Joined a student start-up team named MachInsight focusing on dealing with some ComputerVision-related projects.
 - Undergraduate teaching Assistant of the course - “Digital Image Processing” at Xi’an Jiaotong University. 
@@ -146,3 +147,4 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 
 
+ -->
