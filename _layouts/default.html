@@ -25,9 +25,9 @@
         <a href="{{ site.baseurl }}/#award">Award</a>
         <a href="">CV</a>
 
-        <a href="{{ site.baseurl }}/myartworks" style="float: right;">MyArtwork</a>
-        <a href="{{ site.baseurl }}/blog" style="float: right;">Blog</a>
-        <a href="" style="float: right;">Github</a>
+        <!-- <a href="{{ site.baseurl }}/myartworks" style="float: right;">MyArtwork</a> -->
+        <!-- <a href="{{ site.baseurl }}/blog" style="float: right;">Blog</a> -->
+        <!-- <a href="" style="float: right;">Github</a> -->
       </div>
     </nav>
 
@@ -39,6 +39,7 @@
           <div class="site-info">
             <h1 class="site-name">{{ site.name }}</h1>
               <!-- <a href="" style="margin-left: 8px;">[Curriculum Vitae]</a>   -->
+
             <p class="site-description">{{ site.description }}</p>
             <p class="site-description"> {{ site.department }} </p>
             <p class="site-description">
@@ -58,6 +59,9 @@
             </p> 
           </div>
 
+          <div style="float: right;  padding:35px 35px 0 0;"> 
+          {% include svg-icons.html %}
+          </div>
 <!--           <div style="float: right;  padding-top:35px;">  
 
               <a href="" style="margin-left: 25px;">Curriculum Vitae</a>

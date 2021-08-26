@@ -5,13 +5,13 @@ published: true
 ---
 
 
-<!-- I am a PhD candidate in Computer Science at [University of Virginia](https://www.virginia.edu/). My advisor is [Aidong Zhang](https://engineering.virginia.edu/faculty/aidong-zhang). 
-Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively, where I worked on machine learning for prognostic health monitoring and robotics. -->
+
+<!-- Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/) in 2016 and 2018, respectively, where I worked on machine learning for prognostic health monitoring and robotics. I am  -->
 
 
-
-## **Research Interest**
-<p style="padding-left: 35px;">I am broadly interested in Machine Learning and Data Mining. In particular, my current research mainly focuses on Multimodal Machine Learning, Vision & Language, Few-shot Learning, Meta-Learning, and Graph Mining. I am also interested in AI-guided Computer Graphics and AR/VR.</p>
+## **About Me**
+<p style="padding-left: 35px;"> I am a Ph.D. candidate in Computer Science at <a href="https://www.virginia.edu/">University of Virginia</a> under the supervision of Prof. <a href="https://engineering.virginia.edu/faculty/aidong-zhang"> Aidong Zhang</a>. My research interests broadly are Machine Learning and Data Mining. In particular, my research areas are currently in multimodal machine learning, knowledge-guided learning, graph mining, and meta learning.  <!-- differencial privacy, and reinforcement learning --> Before joining UVa, I received my Bachelor degree in Automation Engineering and Master's degree in Control Science and Engineering (Pattern Recognition and Intelligent Systems) from <a href="http://en.hit.edu.cn/">Xi'an Jiaotong University</a> in 2015 and 2018, respectively, where I worked on computer vision and machine learning for computer graphics and robotics. 
+I am also interested in AI-guided computer graphics and Smart AR/VR systems.</p>
 
 
 <!-- ## **News** -->
@@ -32,13 +32,13 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 ## **Education**
 - **Ph.D.** in *Computer Science* at [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) 
-  - Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ)
-  - Research Area: data mining, multimodal machine learning, few-shot learning, differencial privacy, reinforcement learning.
-- **M.S.** in *Pattern Recognition and Intelligent Systems* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/)
+  <!-- - Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ) -->
+  <!-- - Research interest: data mining, multimodal machine learning, few-shot learning, differencial privacy, reinforcement learning. -->
+- **M.S.** in *Pattern Recognition and Intelligent Systems, Control Science and Engineering* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/)
 <!-- Control Science and Engineering:  -->
-  - Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html)
-  - Research Area:  Computer Vision, Robotics, Computer Graphics, Image/Video Processing. 
-- **B.E.** in *Automation* @ [School of Automation Science and Technology, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm) 
+  - Research interest:  Computer Vision, Robotics, Computer Graphics, Image/Video Processing 
+  - Thesis: Illumination-guided Neural Artwork Generation for 2D Photographs and 3D objects (Advisor: [Xuguang Lan](https://dblp.org/pid/86/6892.html) and Nanning Zheng)
+- **B.E.** in *Automation Engineering* @ [School of Electronics and Information Engineering, Xi'an Jiaotong University](http://eie.xjtu.edu.cn/en/info/1002/1004.htm) 
   - Early Entrance College Program ([Honors Youth Program](https://jia-yi-chen.github.io/images/HYP.pdf)) @ Xi'an Jiaotong University 
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
@@ -76,7 +76,7 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 <h4 style="margin-bottom: -15px; margin-left: 15px;"> Contest: </h4>
 - *World Top-4* in the final contest of “2016 **International** DJI Developer Competition on Drones". (*algorithm design, programming, and field test*) [\[web\]](https://dl.djicdn.com/downloads/dev/DevChallenge2016/2016%20DJI%20Developer%20Challenge%20Official%20Rules_v1.0.pdf) [\[video\]](https://www.youtube.com/watch?v=DIRkzH3cTAM)
 - *1st Prize* in “2015 China **National** Contest on Traffic-Scene Image Processing” (*team leader*)
-- *2nd Prize* in "3rd China **National** Graduate Contest on Smart-City Technology and Creative Design” (*video facial tracking*)
+- *2nd Prize* in "3rd China **National** Contest on Smart-City Technology and Creative Design” (*video facial tracking*)
 
 <h4 style="margin: -15px 0 -15px; margin-left: 15px;"> Academic: </h4>
 - 2020 KDD Student Travel Award
@@ -84,10 +84,11 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 - 2017 Suzhou Industrial Scholarship  (Top 5)
 - 2016 Outstanding Graduate Award
 - 2015 Graduate Scholarship (Top 10%)
+- 2014 Undergraduate Scholarships
 
 
-<!-- 
-## **Professional Activities**
+
+<!-- ## **Professional Activities**
 
 - Reviewer / sub-reviewer: WSDM 2021, KDD 2021, NeurIPS, ICLR
 - Volunteer: KDD 2020
@@ -114,7 +115,9 @@ For more details, please see this page : [Projects](http://)
 - [Linkedin]()
 - [[Github]](https://github.com/jia-yi-chen), [[Google Scholar]](), [[DBLP]]()
 
+#### **Since 2018**:
 
+#### **Before 2018**:
 
 
 
@@ -134,17 +137,20 @@ For more details, please see this page : [Projects](http://)
 
 ## **Volunteer & Extracurricular Activities**
 
-See my blogs
+See my [blogs]()
+
+See my [artworks]()
+
+#### **Volunteer**:
 
 - Joined a student start-up team named MachInsight focusing on dealing with some ComputerVision-related projects.
 - Undergraduate teaching Assistant of the course - “Digital Image Processing” at Xi’an Jiaotong University. 
 - As a drone-control programmer, coordinated with the staff from a Chinese famous TV program - CCTV10 “Approaches to Science”, filming the drone-perspective scene for a documentary.
 - Designed T-shirt for all students and staff in the IAIR Institution (using Photoshop).
-- Voluntarily edited a Portfolio for ones who took the course - Art Appreciation & Creation (Architectural Design).
+- Voluntarily edited a Portfolio for ones who took the course - Art Appreciation & Creation (Architectural Design). -->
 
 
 
 
 
 
- -->
