@@ -24,46 +24,54 @@ permalink: /about/
 - **Generalizing Topological Structure of Task in Hybrid Few-shot Classification**
 - **Deep Reinforcement Learning for Human-like Car-Following System** 
   - Built an actor-critic reinforcement learning framework to learn an optimal car-following behavior from empirical data; implemented deep deterministic policy gradient algorithm to learn the continuous-control policy network.
-- **GNNMutation: A Mutation Tool for Graph Neural Networks**  [[Code]()]
+  - *Tools*: Python, PyTorch
+- **GNNMutation: A Mutation Tool for Graph Neural Networks**  [[code]()]
   - Proposed a novel mutator to inject faults into GNN models, including eight node/edge-level mutation operators.
-- **Controllable Text Generation via Generative Adversarial Network**  [[Code]()]
+  - *Tools*: Python, PyTorch
+- **Controllable Text Generation via Generative Adversarial Network**  [[code]()]
   - Implemented a conditional GAN to generate realistic-looking sentences whose attributes (e.g., emotion in sentences) can be controlled; collected social media texts and split them by emotion annotations; trained the RNN-based generator and discriminator adversarially, using the idea of reinforcement learning to maximize the rewards from discriminator.
+  - *Tools*: Python, PyTorch, Tensorflow
 
-
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 <!-- <p style="padding-left: 35px;"> <b>Before 2018</b>:</p> -->
 <!-- #### **Before 2018**: -->
 ## **Projects (CV/CG directions)**
 
-- **Artwork Generation for 3D Scene Models based on Computer Vision & Graphics**  [[Code]()]
+- **Artwork Generation for 3D Scene Models based on Computer Vision & Graphics**  [[code]()]
   - Studied human knowledge-guided neural style transfer, focusing on improving the illusion of space in generated images by simulating how artists use their skills to observe and reproduce a 3D scene (e.g., geometric structures, lighting and shallow); also studied 3D non-photorealistic rendering based on the neural style transfer paradigm.
-  - Proposed an illumination-guided deep alignment method using CNN, Lighting Path Expression, and PatchMatch (Python).
-  - Created a 3D-2D dataset, including 3D models rendered by multiple types of lighting (by Maya), 2D photos annotated by lighting and segmentation (by Photoshop and Matlab), and a hand-drawn stylistic material for testing (by CorelPainter).
-  - Successfully generated results with greater sense of space; outstanding master’s thesis award.
-- **Traffic-scene Image Enhancement** [[Details]()]
+  - Created a 3D-2D dataset, including 3D models rendered by multiple types of lighting (using Autodesk Maya), 2D photos annotated by lighting and segmentation (by Photoshop and Matlab), and a hand-drawn stylistic material for testing (by CorelPainter).
+  - Proposed an illumination-guided deep alignment method based on CNN, Lighting Path Expression, and PatchMatch (Keras, Python).
+- **Traffic-scene Image Enhancement** [[code]()]
   - Proposed a fast, detail-enhanced, and halo-free method to simultaneously correct the over- and under-exposure problem in LDR images, which widely exists in traffic-scene images in our smart-vehicle vision system.
-- **Efficient Human Action Recognition based on Video-Compression Domain**  [[Code]()]
+- **Efficient Human Action Recognition based on Video-Compression Domain**  [[code]()]
   - Extracted motion vectors (MV) and DCT from MPEG-4 video bitstreams.
   - Proposed to fast detect Spatial-Temporal Interest Points from video bitstream using MV and DCT, instead of from the decoded video, and then formed action features using BoW and GMM.
-  - Trained traditional classifiers like SVM.
-  - Tools: Matlab, C++, OpenCV, ffmpeg, Linux.
+  - Trained traditional ML classifiers-decision tree, Naive Bayes, and SVM.
+  - *Tools*: Matlab, C++, OpenCV, ffmpeg, Linux.
 
 
 
-
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## **Projects (Robotics direction)**
 
-- **TurtleBot Autonomous Security Guard** [[Code]()]
+- **TurtleBot Autonomous Security Guard** 
   - Built an autonomous framework on TurtleBot to act as a human security guard—wandering, finding AprilTag targets, approaching each target, aiming and then shooting the target with a motorized toy gun installed on TurtleBot. 
-  - Developed the target searching/ranking, goal-position and gun-pitch calculation, and go-to-goal functions (ROS, python).
+  - Developed the target searching/ranking, goal-position and gun-pitch calculation, and go-to-goal functions.
+  - *Tools*: Robotic Operating System (ROS), C++,  Python, Linux
 
 
-- **Drone Vision-guided Autonomous Navigation & Search-and-rescue System** [[Code]()]
+- **Drone Vision-guided Autonomous Navigation & Search-and-rescue System** [[code]()]
+  - Centered around a mission making the drone to complete a search-and-rescue task. Participants are tasked with building an app that enables a drone to autonomously take-off from a moving vehicle, collect data in a survivors searching area, and finally track and land on the moving vehicle.
   - Developed a real-time vision-based module on drone system for Object Detection and 3D Localization, computing the 3D poses of objects from 2D images using real-time camera gimbal, Homography and 3D Transformation (C++).
   - Developed a PID-based autonomous tracking-and-landing module for landing on a moving vehicle, and developed the workflow module to manage the multiple modules simultaneously running on the drone (ROS, Python, Linux).
-  - Conducted 70+ outdoor/simulator experiments to guarantee drone’s landing safety; achieved ≤10cm landing accuracy.
   - Won the 4th place from 130+ international teams in “2016 DJI Developer Challenge”, NY, USA (as a team of three).
+  - *Tools*: Robotic Operating System (ROS), C++,  Python, Linux
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 
-*Back to [Homepage](/#skills).*
+*Back to [CV](/CV#proj).*
+
+<!-- *Go to [Homepage](/#award).* -->
 
