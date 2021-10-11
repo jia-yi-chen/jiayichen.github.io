@@ -166,13 +166,15 @@ permalink: /CV/
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## **Hobbies**
+
+I am passionate about the interdiciplinary research incorporating Computer Science in Fine Art (visual art and music) or vice versa!
 <!-- - **Hobbies**:  -->
 <!-- **Visual Art**:  -->
 * **Visual Art**: I am skilled in multiple types of drawing, such as Sketching, Watercolor Painting, and Digital Painting using software like Photoshop/CorelPainter. 
 * **Music**:  I am proficient in playing *classical* guitars and have a basic understanding of music theory.
 
 
-<p style="padding-left: 35px;"> I am passionate about the interdiciplinary research combining Computer Science with Fine Art (visual art and music)!</p>
+
 <!-- **Music**:  -->
 
 
