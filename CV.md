@@ -35,7 +35,7 @@ permalink: /CV/
 
 
 
-- **Relevant courses**: Graph Mining, Machine Learning,  Computer Vision, Natural Language Processing,  Advanced Natural Language Processing, Reinforcement Learning, Statistical Learning & Graphical Models, Data Structures and Algorithms, Database Systems, Autonomous Mobile Robot, Software Artifacts, Computer Graphics, Computer Network Theory, Digital Image and Video Processing, etc.
+- **Relevant courses**: Graph Mining, Machine Learning,  Computer Vision, Natural Language Processing,  Advanced Natural Language Processing, Reinforcement Learning, Statistical Learning & Graphical Models, Data Structures and Algorithms, Database Systems, Autonomous Mobile Robot, Software Artifacts, Computer Graphics, Computer Network Theory, etc.
 <div style="margin-top: -12px;margin-bottom: -12px;"> </div>
 - **Programming Languages**: Python, C++, Matlab, SQL, HTML, Java
 <div style="margin-top: -12px;margin-bottom: -12px;"> </div>
