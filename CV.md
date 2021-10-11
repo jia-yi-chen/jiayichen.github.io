@@ -161,15 +161,18 @@ permalink: /CV/
 - **Volunteer** at KDD '20 conference
 - **Volunteer** at the 2016 National Challenge on the Future of Smart Car (setup live-streaming software for the event; coordinated with a national TV channel to film drone-perspective scenes)
 - **Graphic designer**: Logo design and workwear design for the IAIR Institute (2017); Portfolio design for the class of course “Art Appreciation & Creation (Architectural Design)” (2011).
+- Teaching classical guitar at student clubs (2010).
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## **Hobbies**
 <!-- - **Hobbies**:  -->
 <!-- **Visual Art**:  -->
-**Visual Art**: I am skilled in multiple types of drawing, such as Sketching, Watercolor Painting, and Digital Painting using software like Photoshop/CorelPainter. **Music**: I am also interested in playing classical guitars.
+* **Visual Art**: I am skilled in multiple types of drawing, such as Sketching, Watercolor Painting, and Digital Painting using software like Photoshop/CorelPainter. 
+* **Music**:  I am proficient in playing *classical* guitars and have a basic understanding of music theory.
 
-I am enthusiastic for interdiciplinary research incorporating computer science into Fine Arts (e.g., visual art and music) or vice versa!
+
+<p style="padding-left: 35px;"> I am passionate about the interdiciplinary research combining Computer Science with Fine Art (visual art and music)!</p>
 <!-- **Music**:  -->
 
 
