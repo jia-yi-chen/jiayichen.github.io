@@ -14,7 +14,7 @@ published: true
 
 ## **Research Interest**
 
-<p style="padding-left: 35px;">I am broadly interested in Machine Learning, Graph Mining and Multimodal Data Mining. In particular, my currently research includes Multi-task Learning, Few-shot Learning, Multimodal Learning for Computer Vision and Natural Language Processing, and Federated Learning.</p>
+<p style="padding-left: 35px;">I am broadly interested in Machine Learning, Graph Mining and Multimodal Data Mining. In particular, my currently research includes Multi-task Learning, Few-shot Learning, Multimodal Learning for Vision and Natural Language Processing, and Federated Learning.</p>
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
