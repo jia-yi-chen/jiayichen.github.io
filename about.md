@@ -28,7 +28,7 @@ permalink: /about/
 - **GNNMutation: A Mutation Tool for Graph Neural Networks** 
   - Proposed a novel mutator to inject faults into GNN models, including eight node/edge-level mutation operators.
   - *Tools*: Python, PyTorch
-- **Controllable Text Generation via Generative Adversarial Network**  [[code]()]
+- **Controllable Text Generation via Generative Adversarial Network** 
   - Implemented a conditional GAN to generate realistic-looking sentences whose attributes (e.g., emotion in sentences) can be controlled; collected social media texts and split them by emotion annotations; trained the RNN-based generator and discriminator adversarially, using the idea of reinforcement learning to maximize the rewards from discriminator.
   - *Tools*: Python, PyTorch, Tensorflow
 
@@ -41,7 +41,7 @@ permalink: /about/
   - Studied human knowledge-guided neural style transfer, focusing on improving the illusion of space in generated images by simulating how artists use their skills to observe and reproduce a 3D scene (e.g., geometric structures, lighting and shallow); also studied 3D non-photorealistic rendering based on the neural style transfer paradigm.
   - Created a 3D-2D dataset, including 3D models rendered by multiple types of lighting (using Autodesk Maya), 2D photos annotated by lighting and segmentation (by Photoshop and Matlab), and a hand-drawn stylistic material for testing (by CorelPainter).
   - Proposed an illumination-guided deep alignment method based on CNN, Lighting Path Expression, and PatchMatch (Keras, Python).
-- **Traffic-scene Image Enhancement** [[code]()]
+- **Traffic-scene Image Enhancement** 
   - Proposed a fast, detail-enhanced, and halo-free method to simultaneously correct the over- and under-exposure problem in LDR images, which widely exists in traffic-scene images in our smart-vehicle vision system.
 - **Efficient Human Action Recognition based on Video-Compression Domain** 
   - Extracted motion vectors (MV) and DCT from MPEG-4 video bitstreams.
