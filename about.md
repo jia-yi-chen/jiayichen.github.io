@@ -19,6 +19,8 @@ permalink: /about/
   - Work1: Heterogeneous **graph neural network**  for incomplete multimodal data analysis.
   - Work2: Context-guided task-heterogeneous meta-learning approach to solve **few-shot learning** across modalities. 
   - Work3: Dealing with few-shot tasks with a hybrid of data structures, and propose graph-based semi-supervised meta-learner to generalize and specialize the underlying geometric structure of few-shot data alignment task. -->
+- **Disentanglement for partially-observed multi-modal spatiotemporal interactions** 
+- **Privacy-preserving few-shot learning with hetergeneous domain shifts across different modalities.**
 - **Heterogeneous Graph Neural Network for incomplete multimodal data analysis** 
 - **Context-guided Meta-Learning Approach for Few-shot Learning Across Modalities**
 - **Generalizing Topological Structure of Task in Hybrid Few-shot Classification**

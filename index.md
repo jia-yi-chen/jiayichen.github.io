@@ -14,7 +14,7 @@ published: true
 
 ## **Research Interest**
 
-<p style="padding-left: 35px;">I am broadly interested in Machine Learning, Graph Mining and Multimodal Data Mining. In particular, my currently research includes Multi-task Learning, Few-shot Learning, Multimodal Learning (Vision, Language, and Spatiotemporal Data), Reinforcement Learning, Federated Learning, Disentangled Representation Learning, AutoML.</p>
+<p style="padding-left: 35px;">I am broadly interested in Machine Learning, Graph Mining and Multimodal Data Mining. In particular, my current research areas include Multi-task Learning, Few-shot Learning, Multimodal Learning (Vision, Language, and Spatiotemporal Data), Federated Learning, Disentangled Representation Learning, AutoML.</p>
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
@@ -31,6 +31,13 @@ published: true
   - Enrolled in the *Special Class for the Gifted Young* ([Honors Youth Program](https://jia-yi-chen.github.io/images/HYP.pdf)) from 2009 to 2011.
 
 
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
+
+
+## **Work Experience**
+- Software Engineer Intern @*Google LLC* (2022 Summer) 
+- Student Researcher @*Google LLC* (2022 Fall) 
+  - Host @ *Google Brain* & *Cloud Document AI*
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
