@@ -37,7 +37,7 @@ published: true
 ## **Work Experience**
 - Software Engineer Intern @*Google LLC* (2022 Summer) 
 - Student Researcher @*Google LLC* (2022 Fall) 
-  - Teams: Google *Brain* & *Cloud Document AI*
+  - Teams: Google *Brain* and Google *Cloud DocAI*
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
