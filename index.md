@@ -38,6 +38,7 @@ published: true
 - Software Engineer Intern @*Google LLC* (2022 Summer) 
 - Student Researcher @*Google LLC* (2022 Fall) 
   - Teams: Google *Brain* and Google *Cloud DocAI*
+  <!-- - Project -->
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 

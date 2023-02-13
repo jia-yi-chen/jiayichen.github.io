@@ -39,7 +39,7 @@ permalink: /CV/
 <div style="margin-top: -12px;margin-bottom: -12px;"> </div>
 - **Programming Languages**: Python, C++, Matlab, SQL, HTML, Java
 <div style="margin-top: -12px;margin-bottom: -12px;"> </div>
-- **Tools & Platforms**: Linux, PyTorch, Tensorflow, scikit-learn, pandas, NetworkX, OpenCV, NLTK, OpenAI Gym, Robotic Operating System (ROS), ffmpeg 
+- **Tools & Platforms**: PyTorch, Tensorflow, Jax, Flax, Haiku, Keras, Huggingface, scikit-learn, pandas, NetworkX, OpenCV, NLTK, OpenAI Gym, Robotic Operating System (ROS), ffmpeg, etc.
 <div style="margin-top: -12px;margin-bottom: -12px;"> </div>
 - **Multi-media Skills**:   Adobe Photoshop/Indesign/Illustrator, CorelPainter (**2D**); Autodesk Maya, Unity (**3D**)
 
