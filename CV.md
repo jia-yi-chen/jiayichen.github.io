@@ -13,7 +13,7 @@ permalink: /CV/
 ## **Education**
 - **Ph.D.** in *Computer Science* @ [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (2018-Present) 
   <!-- - Advisor: [Aidong Zhang](https://scholar.google.com/citations?hl=en&user=O8XxkE4AAAAJ) -->
-  - Research interest: Machine Learning, Graph Mining, Multi-task Learning, Few-shot Learning, Multimodal Machine Learning for Vision and Language, Reinforcement Learning, Federated Learning.
+  - Research interest: Machine Learning, Graph Mining, Multi-task Learning, Few-shot Learning, Multimodal Machine Learning (Vision, Language, Audio, and Spatiotemporal Data), Reinforcement Learning, Federated Learning, Disentangled Representation Learning, AutoML.
 - **M.S.** in *Pattern Recognition and Intelligent Systems, Control Science and Engineering* @ [Institute of Aritificial Intelligence and Robotics, Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/) (2015-2018)
 <!-- Control Science and Engineering:  -->
   - Research interests: Computer Vision, Vision-based Computer Graphics, Image Processing. 

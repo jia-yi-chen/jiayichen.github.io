@@ -13,9 +13,8 @@ permalink: /publication/
 <!-- ### Since 2018 -->
 <!-- - [to appear] Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits
   - **Chuanhao Li**, Hongning Wang -->
-1. **Jiayi Chen**, Aidong Zhang. "FedMSplit: Correlation Adaptive Federated Multitask Learning over Multimodal Split Networks". The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022. (research track) (acceptance rate: 254/1695=14.99%) [[PDF](https://doi.org/10.1145/3534678.3539384)]  
-. 	
-2. **Jiayi Chen**, Aidong Zhang. "TopoNet: Adaptive Topological Transduction for Hybrid Few-shot Learning". The ACM International World Wide Web Conference (**WWW**) 2022. 
+1. **Jiayi Chen**, Aidong Zhang. "FedMSplit: Correlation Adaptive Federated Multitask Learning over Multimodal Split Networks". The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022. (research track) (acceptance rate: 254/1695=14.99%) [[PDF](https://doi.org/10.1145/3534678.3539384)]
+2. **Jiayi Chen**, Aidong Zhang. "Adaptive Topological Transduction for Hybrid Few-shot Learning". The ACM International World Wide Web Conference (**WWW**) 2022. 
 3. **Jiayi Chen**, Aidong Zhang. "HetMAML: Task-heterogeneous Model-agnostic Meta-learning for Few-shot Learning Across Modalities". ACM International Conference on Information and Knowledge Management (**CIKM**), 2021. (full paper) (acceptance rate: 271/1251=21.66%) 
 4. **Jiayi Chen**, Aidong Zhang. "HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness". ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020. (research track) (acceptance rate: 216/1279=16.89%) [[PDF](https://doi.org/10.1145/3394486.3403182)]
 5. **Jiayi Chen**, Xuguang Lan. "Context-guided deep alignment for image style transfer and 3d non-photorealistic rendering”, ArXiv, 2018. (technical report, project done in 2018)
