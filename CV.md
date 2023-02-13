@@ -44,8 +44,13 @@ permalink: /CV/
 - **Multi-media Skills**:   Adobe Photoshop/Indesign/Illustrator, CorelPainter (**2D**); Autodesk Maya, Unity (**3D**)
 
 
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 
+## **Work Experience**
+- Software Engineer Intern @*Google LLC* (2022 Summer) 
+- Student Researcher @*Google LLC* (2022 Fall) 
+  - Teams: Google *Brain* and Google *Cloud DocAI*
 
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
