@@ -14,7 +14,7 @@ published: true
 
 ## **Research Interest**
 
-<p style="padding-left: 35px;">I am broadly interested in Graph Mining and Multimodal Machine Learning (e.g., Vision, Natural Language, and Spatiotemporal Data). In particular, my recent research experiences include Multi-view Graph Neural Networks, Cross-domain Few-shot Learning, Meta-Learning, Privacy-preserving Federated Learning, Deep Generative Models, Large Language Models, Disentangled Representation Learning, and AutoML. </p>
+<p style="padding-left: 35px;">I am broadly interested in Graph Mining and Multimodal Machine Learning (e.g., Vision, Natural Language, Multivariate Time-series, and Spatiotemporal Data). In particular, my recent research experiences include Multi-view Graph Neural Networks, Cross-domain Few-shot Learning, Meta-Learning, Privacy-preserving Federated Learning, Deep Generative Models, Large Language Models, Disentangled Representation Learning, and AutoML. </p>
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
