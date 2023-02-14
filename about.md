@@ -21,14 +21,19 @@ permalink: /about/
   - Work3: Dealing with few-shot tasks with a hybrid of data structures, and propose graph-based semi-supervised meta-learner to generalize and specialize the underlying geometric structure of few-shot data alignment task. -->
 - **Disentanglement for partially-observed multi-modal spatiotemporal interactions** 
   - *Keywords*: ***Deep Generative Models***, Longititude Temporal ***Variational Autoencoders***, Disentangled Representation Learning, Gaussian Processes, Spatiotemporal, Latent Space Graph, Human Motion Understanding ([Mocap](http://mocap.cs.cmu.edu/])), Partial Observations, Imputation
+  - Work submitted to KDD'23 (under review)
 - **Privacy-preserving few-shot learning with hetergeneous domain shifts across different modalities.**
-  - *Keywords*: Multiple Modalities, ***Federated*** Multitask Learning, On-device Training, Server-client Interaction, ***Domain Shifts***, Partial Observations, Model Transferability
+  - *Keywords*: Multiple Modalities, ***Federated*** Multitask Learning, On-device Training, Server-client Interaction, ***Domain Shifts***, Small Dataset, Partial Observations, Model Transferability 
+  - Publication: [[PDF](https://doi.org/10.1145/3534678.3539384)]
 - **Heterogeneous Graph Neural Network for incomplete multimodal data analysis** 
-  - *Keywords*: Multimedia (Video, Language, and Audio), Graph Neural Networks, Partial Observations
+  - *Keywords*: Multimedia (Video, Language, and Audio), Graph Neural Networks, Partial Observations 
+  - Publication: [[PDF](https://doi.org/10.1145/3394486.3403182)]
 - **Context-guided Meta-Learning Approach for Few-shot Learning Across Modalities**
   - *Keywords*: Multiple Modalities, Knowledge distillation, Model Transferability, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations
+  - Publication: [[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482262)]
 - **Generalizing Topological Structure of Task in Hybrid Few-shot Classification**
   - *Keywords*: Multiple Modalities, Graph Neural Networks, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations, Semi-supervised Learning
+  - Accepted by WWW'22
 - **Deep Reinforcement Learning for Human-like Car-Following System** 
   - Built an actor-critic reinforcement learning framework to learn an optimal car-following behavior from empirical data; implemented deep deterministic policy gradient algorithm to learn the continuous-control policy network.
   - *Tools*: Python, PyTorch
@@ -46,7 +51,7 @@ permalink: /about/
 ## **Projects (CV/CG directions)**
 
 - **Artwork Generation for 3D Scene Models based on Computer Vision & Graphics** 
-  - Studied human knowledge-guided neural style transfer, focusing on improving the illusion of space in generated images by simulating how artists use their skills to observe and reproduce a 3D scene (e.g., geometric structures, lighting and shallow); also studied 3D non-photorealistic rendering based on the neural style transfer paradigm.
+  - Studied human knowledge-guided ***Neural Style Transfer***, focusing on improving the illusion of space in generated images by simulating how artists use their skills to observe and reproduce a 3D scene (e.g., geometric structures, lighting and shallow); also studied 3D non-photorealistic rendering based on the neural style transfer paradigm.
   - Created a 3D-2D dataset, including 3D models rendered by multiple types of lighting (using Autodesk Maya), 2D photos annotated by lighting and segmentation (by Photoshop and Matlab), and a hand-drawn stylistic material for testing (by CorelPainter).
   - Proposed an illumination-guided deep alignment method based on CNN, Lighting Path Expression, and PatchMatch (Keras, Python).
 - **Traffic-scene Image Enhancement** 
