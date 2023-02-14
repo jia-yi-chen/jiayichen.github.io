@@ -21,19 +21,19 @@ permalink: /about/
   - Work3: Dealing with few-shot tasks with a hybrid of data structures, and propose graph-based semi-supervised meta-learner to generalize and specialize the underlying geometric structure of few-shot data alignment task. -->
 - **Disentanglement for partially-observed multi-modal spatiotemporal interactions** (08/2022-Present)
   - *Keywords*: ***Deep Generative Models***, Longititude Temporal ***Variational Autoencoders***, Disentangled Representation Learning, Gaussian Processes, Spatiotemporal, Latent Space Graph, Human Motion Understanding ([Mocap](http://mocap.cs.cmu.edu/])), Partial Observations, Imputation
-  - Work submitted to KDD'23 (under review)
+  - *Publication*: under review
 - **Privacy-preserving few-shot learning with hetergeneous domain shifts across different modalities.** (11/2021-05/2022)
   - *Keywords*: Multiple Modalities, ***Federated*** Multitask Learning, On-device Training, Server-client Interaction, ***Domain Shifts***, Small Dataset, Partial Observations, Model Transferability 
-  - Publication: [[PDF](https://doi.org/10.1145/3534678.3539384)]
+  - *Publication*: [[PDF](https://doi.org/10.1145/3534678.3539384)]
 - **Heterogeneous Graph Neural Network for incomplete multimodal data analysis** (09/2019-05/2020)
   - *Keywords*: Multimedia (Video, Language, and Audio), Graph Neural Networks, Partial Observations 
-  - Publication: [[PDF](https://doi.org/10.1145/3394486.3403182)]
+  - *Publication*: [[PDF](https://doi.org/10.1145/3394486.3403182)]
 - **Context-guided Meta-Learning Approach for Few-shot Learning Across Modalities** (05/2020-02/2021)
   - *Keywords*: Multiple Modalities, Knowledge distillation, Model Transferability, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations
-  - Publication: [[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482262)]
+  - *Publication*: [[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482262)]
 - **Generalizing Topological Structure of Task in Hybrid Few-shot Classification** (08/2020-07/2021)
   - *Keywords*: Multiple Modalities, Graph Neural Networks, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations, Semi-supervised Learning
-  - Accepted by WWW'22
+  - *Publication*: accepted by WWW'22
 - **Deep Reinforcement Learning for Human-like Car-Following System** 
   - Built an actor-critic reinforcement learning framework to learn an optimal car-following behavior from empirical data; implemented deep deterministic policy gradient algorithm to learn the continuous-control policy network.
   - *Tools*: Python, PyTorch
