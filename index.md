@@ -6,7 +6,7 @@ published: true
 
  
 ## **About Me**
-<p style="padding-left: 35px;"> I am a Ph.D. candidate in <a href="https://engineering.virginia.edu/departments/computer-science">Computer Science</a> at <a href="https://www.virginia.edu/">University of Virginia</a> under the supervision of Prof. Aidong Zhang. My research interests are broadly in Machine Learning and Data Mining. In particular, my research areas include Unsupervised Representation Learning, Graph Mining, Multimodal Machine Learning, Few-shot Learning, and Federated Learning. <!-- differencial privacy, and reinforcement learning --> Before joining UVa, I received my Bachelor degree in Automation Engineering and Master's degree in Control Science and Engineering (Pattern Recognition and Intelligent Systems) from <a href="http://en.hit.edu.cn/">Xi'an Jiaotong University</a> in 2015 and 2018, respectively, where I worked on projects related to Computer Vision, Vision-based Computer Graphics, Image Processing, and Vision-guided Robotics. <!-- I am passionate about exploring AL/ML/CV/NLP potentials in daily lives! --></p>
+<p style="padding-left: 35px;"> I am a Ph.D. candidate in <a href="https://engineering.virginia.edu/departments/computer-science">Computer Science</a> at <a href="https://www.virginia.edu/">University of Virginia</a> under the supervision of Prof. Aidong Zhang. My research interests are broadly in Machine Learning and Data Mining.  <!-- differencial privacy, and reinforcement learning --> Before joining UVa, I received my Bachelor degree in Automation Engineering and Master's degree in Control Science and Engineering (Pattern Recognition and Intelligent Systems) from <a href="http://en.hit.edu.cn/">Xi'an Jiaotong University</a> in 2015 and 2018, respectively, where I worked on projects related to Computer Vision, Vision-based Computer Graphics, Image Processing, and Vision-guided Robotics. <!-- I am passionate about exploring AL/ML/CV/NLP potentials in daily lives! --></p>
 
 
 
@@ -14,7 +14,7 @@ published: true
 
 ## **Research Interest**
 
-<p style="padding-left: 35px;">I am broadly interested in Machine Learning, Graph Mining and Multimodal Data Mining. In particular, my current research areas include Multi-task Learning, Few-shot Learning, Multimodal Learning (Vision, Language, and Spatiotemporal Data), Federated Learning, Disentangled Representation Learning, AutoML.</p>
+<p style="padding-left: 35px;">I am broadly interested in Graph Mining and Multimodal Machine Learning (e.g., Vision, Natural Language, and Spatiotemporal Data). In particular, my recent research experiences include Multi-view Graph Neural Networks, Cross-domain Few-shot Learning, Meta-Learning, Privacy-preserving Federated Learning, Deep Generative Models, Large Language Models, Disentangled Representation Learning, and AutoML. </p>
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
