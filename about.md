@@ -20,10 +20,15 @@ permalink: /about/
   - Work2: Context-guided task-heterogeneous meta-learning approach to solve **few-shot learning** across modalities. 
   - Work3: Dealing with few-shot tasks with a hybrid of data structures, and propose graph-based semi-supervised meta-learner to generalize and specialize the underlying geometric structure of few-shot data alignment task. -->
 - **Disentanglement for partially-observed multi-modal spatiotemporal interactions** 
+  - *Keywords*: Deep Generative Models, Longititude Temporal Variational Autoencoders, Disentangled Representation Learning, Spatiotemporal, Graph Factorization, Human Motion Understanding, Skeleton, Partial Observabiility, Imputation
 - **Privacy-preserving few-shot learning with hetergeneous domain shifts across different modalities.**
+  - *Keywords*: Multiple Modalities, Federated Multitask Learning, On-device Training, Server-client Interaction, Domain Shifts, Partial Observations
 - **Heterogeneous Graph Neural Network for incomplete multimodal data analysis** 
+  - *Keywords*: Multiple Modalities, Graph Neural Networks, Partial Observations
 - **Context-guided Meta-Learning Approach for Few-shot Learning Across Modalities**
+  - *Keywords*: Multiple Modalities, Knowledge distillation, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations
 - **Generalizing Topological Structure of Task in Hybrid Few-shot Classification**
+  - *Keywords*: Multiple Modalities, Graph Neural Networks, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations, Semi-supervised Learning
 - **Deep Reinforcement Learning for Human-like Car-Following System** 
   - Built an actor-critic reinforcement learning framework to learn an optimal car-following behavior from empirical data; implemented deep deterministic policy gradient algorithm to learn the continuous-control policy network.
   - *Tools*: Python, PyTorch
@@ -31,6 +36,7 @@ permalink: /about/
   - Proposed a novel mutator to inject faults into GNN models, including eight node/edge-level mutation operators.
   - *Tools*: Python, PyTorch
 - **Controllable Text Generation via Generative Adversarial Network** 
+  - *Keywords*: Natural Language Generation, conditional GANs, VAEs, Reinforcement Learning
   - Implemented a conditional GAN to generate realistic-looking sentences whose attributes (e.g., emotion in sentences) can be controlled; collected social media texts and split them by emotion annotations; trained the RNN-based generator and discriminator adversarially, using the idea of reinforcement learning to maximize the rewards from discriminator.
   - *Tools*: Python, PyTorch, Tensorflow
 

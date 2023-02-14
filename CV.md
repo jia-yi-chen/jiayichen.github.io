@@ -73,8 +73,8 @@ permalink: /CV/
 
 <!-- <p style="padding-left: 35px;"> <b>Since 2018</b>:</p> -->
 <!-- #### **Since 2018**: -->
-- **Learning from Multimodal, Multi-view, and Heterogeneous Data** (May. 2019 - Present)
-  - *Keywords*: Multiple Modalities, Graph Mining, Graph Neural Networks, Domain Shifts, Partial Observations, Few-shot Learning, Meta-Learning, Unsupervised Leraning, Disentangled Representation Learning, Spatiotemporal
+- **On the Machine Learning for Multimodal, Multi-view, and Heterogeneous Data** (May. 2019 - Present)
+  - *Keywords*: Multiple Modalities, Graph Mining, Graph Neural Networks, Domain Shifts, Partial Observations, Few-shot Learning, Meta-Learning, Unsupervised Leraning, Deep Generative Models, Disentangled Representation Learning, Multimedia, Spatiotemporal
   <!-- - *Tools*: Python, PyTorch -->
 - **Deep Reinforcement Learning for Human-like Car-Following System** (Fall 2020)
   - *Keywords*: Actor-Critic Reinforcement Learning, Deep Q Network, Deep Deterministic Policy Gradient
