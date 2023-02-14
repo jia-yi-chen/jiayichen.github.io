@@ -22,11 +22,11 @@ permalink: /about/
 - **Disentanglement for partially-observed multi-modal spatiotemporal interactions** 
   - *Keywords*: Deep Generative Models, Longititude Temporal Variational Autoencoders, Disentangled Representation Learning, Spatiotemporal, Graph Factorization, Human Motion Understanding, Skeleton, Partial Observabiility, Imputation
 - **Privacy-preserving few-shot learning with hetergeneous domain shifts across different modalities.**
-  - *Keywords*: Multiple Modalities, Federated Multitask Learning, On-device Training, Server-client Interaction, Domain Shifts, Partial Observations
+  - *Keywords*: Multiple Modalities, Federated Multitask Learning, On-device Training, Server-client Interaction, Domain Shifts, Partial Observations, Model Transferability
 - **Heterogeneous Graph Neural Network for incomplete multimodal data analysis** 
   - *Keywords*: Multiple Modalities, Graph Neural Networks, Partial Observations
 - **Context-guided Meta-Learning Approach for Few-shot Learning Across Modalities**
-  - *Keywords*: Multiple Modalities, Knowledge distillation, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations
+  - *Keywords*: Multiple Modalities, Knowledge distillation, Model Transferability, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations
 - **Generalizing Topological Structure of Task in Hybrid Few-shot Classification**
   - *Keywords*: Multiple Modalities, Graph Neural Networks, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations, Semi-supervised Learning
 - **Deep Reinforcement Learning for Human-like Car-Following System** 
