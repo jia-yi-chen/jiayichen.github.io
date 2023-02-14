@@ -20,7 +20,7 @@ permalink: /about/
   - Work2: Context-guided task-heterogeneous meta-learning approach to solve **few-shot learning** across modalities. 
   - Work3: Dealing with few-shot tasks with a hybrid of data structures, and propose graph-based semi-supervised meta-learner to generalize and specialize the underlying geometric structure of few-shot data alignment task. -->
 - **Disentanglement for partially-observed multi-modal spatiotemporal interactions** 
-  - *Keywords*: Deep Generative Models, Longititude Temporal Variational Autoencoders, Disentangled Representation Learning, Spatiotemporal, Graph Factorization, Human Motion Understanding, Skeleton, Partial Observabiility, Imputation
+  - *Keywords*: Deep Generative Models, Longititude Temporal Variational Autoencoders, Disentangled Representation Learning, Spatiotemporal, Graph Factorization, Human Motion Understanding, Partial Observations, Imputation
 - **Privacy-preserving few-shot learning with hetergeneous domain shifts across different modalities.**
   - *Keywords*: Multiple Modalities, Federated Multitask Learning, On-device Training, Server-client Interaction, Domain Shifts, Partial Observations, Model Transferability
 - **Heterogeneous Graph Neural Network for incomplete multimodal data analysis** 
