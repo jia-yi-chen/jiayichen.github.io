@@ -19,13 +19,13 @@ permalink: /about/
   - Work1: Heterogeneous **graph neural network**  for incomplete multimodal data analysis.
   - Work2: Context-guided task-heterogeneous meta-learning approach to solve **few-shot learning** across modalities. 
   - Work3: Dealing with few-shot tasks with a hybrid of data structures, and propose graph-based semi-supervised meta-learner to generalize and specialize the underlying geometric structure of few-shot data alignment task. -->
-- **Disentanglement for partially-observed multi-modal spatiotemporal interactions** (08/2022-Present)
+- **Disentanglement for Partially-observed Multimodal Spatiotemporal Interactions** (08/2022-Present)
   - *Keywords*: ***Deep Generative Models***, Longititude Temporal ***Variational Autoencoders***, Disentangled Representation Learning, Gaussian Processes, Spatiotemporal, Latent Space Graph, Human Motion Understanding ([Mocap](http://mocap.cs.cmu.edu/])), Partial Observations, Imputation
   - *Publication*: under review
-- **Privacy-preserving few-shot learning with hetergeneous domain shifts across different modalities.** (11/2021-05/2022)
+- **Privacy-preserving Few-shot learning with Hetergeneous Domain Shifts across Different Modalities** (11/2021-05/2022)
   - *Keywords*: Multiple Modalities, ***Federated*** Multitask Learning, On-device Training, Server-client Interaction, ***Domain Shifts***, Small Dataset, Partial Observations, Model Transferability 
   - *Publication*: [[PDF](https://doi.org/10.1145/3534678.3539384)]
-- **Heterogeneous Graph Neural Network for incomplete multimodal data analysis** (09/2019-05/2020)
+- **Heterogeneous Graph Neural Network for Incomplete Multimodal Data Analysis** (09/2019-05/2020)
   - *Keywords*: Multimedia (Video, Language, and Audio), Graph Neural Networks, Partial Observations 
   - *Publication*: [[PDF](https://doi.org/10.1145/3394486.3403182)]
 - **Context-guided Meta-Learning Approach for Few-shot Learning Across Modalities** (05/2020-02/2021)
