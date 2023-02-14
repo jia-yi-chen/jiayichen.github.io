@@ -20,10 +20,10 @@ permalink: /about/
   - Work2: Context-guided task-heterogeneous meta-learning approach to solve **few-shot learning** across modalities. 
   - Work3: Dealing with few-shot tasks with a hybrid of data structures, and propose graph-based semi-supervised meta-learner to generalize and specialize the underlying geometric structure of few-shot data alignment task. -->
 - **Disentanglement for Partially-observed Multimodal Spatiotemporal Interactions** (08/2022-Present)
-  - *Keywords*: ***Deep Generative Models***, Longititude Temporal ***Variational Autoencoders***, Disentangled Representation Learning, Gaussian Processes, Spatiotemporal, Latent Space Graph, Human Motion Understanding ([Mocap](http://mocap.cs.cmu.edu/])), Partial Observations, Imputation
+  - *Keywords*: *Deep Generative Models*, Longititude Temporal *Variational Autoencoders*, Disentangled Representation Learning, Gaussian Processes, Spatiotemporal, Latent Space Graph, Human Motion Understanding ([Mocap](http://mocap.cs.cmu.edu/])), Partial Observations, Imputation
   - *Publication*: under review
 - **Privacy-preserving Few-shot learning with Hetergeneous Domain Shifts across Different Modalities** (11/2021-05/2022)
-  - *Keywords*: Multiple Modalities, ***Federated*** Multitask Learning, On-device Training, Server-client Interaction, ***Domain Shifts***, Small Dataset, Partial Observations, Model Transferability 
+  - *Keywords*: Multiple Modalities, *Federated* Multitask Learning, On-device Training, Server-client Interaction, *Domain Shifts*, Small Dataset, Partial Observations, Model Transferability 
   - *Publication*: [[PDF](https://doi.org/10.1145/3534678.3539384)]
 - **Heterogeneous Graph Neural Network for Incomplete Multimodal Data Analysis** (09/2019-05/2020)
   - *Keywords*: Multimedia (Video, Language, and Audio), Graph Neural Networks, Partial Observations 
@@ -51,7 +51,7 @@ permalink: /about/
 ## **Projects (CV/CG directions)**
 
 - **Artwork Generation for 3D Scene Models based on Computer Vision & Graphics** 
-  - Studied human knowledge-guided ***Neural Style Transfer***, focusing on improving the illusion of space in generated images by simulating how artists use their skills to observe and reproduce a 3D scene (e.g., geometric structures, lighting and shallow); also studied 3D non-photorealistic rendering based on the neural style transfer paradigm.
+  - Studied human knowledge-guided *Neural Style Transfer*, focusing on improving the illusion of space in generated images by simulating how artists use their skills to observe and reproduce a 3D scene (e.g., geometric structures, lighting and shallow); also studied 3D non-photorealistic rendering based on the neural style transfer paradigm.
   - Created a 3D-2D dataset, including 3D models rendered by multiple types of lighting (using Autodesk Maya), 2D photos annotated by lighting and segmentation (by Photoshop and Matlab), and a hand-drawn stylistic material for testing (by CorelPainter).
   - Proposed an illumination-guided deep alignment method based on CNN, Lighting Path Expression, and PatchMatch (Keras, Python).
 - **Traffic-scene Image Enhancement** 
