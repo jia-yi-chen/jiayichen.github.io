@@ -14,7 +14,7 @@ published: true
 
 ## **Research Interest**
 
-<p style="padding-left: 35px;">I am broadly interested in Graph Mining and Multimodal Machine Learning (e.g., Vision, Natural Language, Multivariate Time-series, and Spatiotemporal Data). In particular, my research experiences include Hetergeneous Graph Neural Networks, Cross-domain Few-shot Learning by Meta-learning, Privacy-preserving Federated Learning, Spatio-temporal Deep Generative Models (e.g., autoencoders, diffusion models), Disentanglment, and AutoML. </p>
+<p style="padding-left: 35px;">I am broadly interested in Multimodal Machine Learning (e.g., Vision, Natural Language, Multivariate Time-series, and Spatiotemporal Data). In particular, my research experiences include Heterogeneous Graph Neural Networks, Cross-domain Few-shot Learning by Meta-learning, Privacy-preserving Federated Learning, Deep Generative Models for Sequential/Dynamic Data, Disentanglement, and AutoML. </p>
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
@@ -37,7 +37,7 @@ published: true
 ## **Work Experience**
 - Software Engineer Intern @*Google LLC* (2022 Summer) 
 - Student Researcher @*Google LLC* (2022 Fall) 
-  - Teams: Google *Brain* and Google *Cloud DocAI*
+  - Teams: Google *Brain* and *Cloud AI*
   <!-- - Project -->
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
