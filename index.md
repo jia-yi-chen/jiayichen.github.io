@@ -59,7 +59,14 @@ published: true
 
 <!-- <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div> -->
 
+## **News**
+- Our paper "FedMSplit: Correlation Adaptive Federated Multitask Learning over Multimodal Split Networks" is accepted by SIGKDD'22.
+- Our paper "Adaptive Topological Transduction for Hybrid Few-shot Learning" is accepted by WWW'22.
+- Our paper "HetMAML: Task-heterogeneous Model-agnostic Meta-learning for Few-shot Learning Across Modalities" is accepted by CIKM'21.
+- Our paper "HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness" is accepted by SIGKDD'20!
 
+
+<div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 <!-- ## **News**
 - 04/14/2021: One full research paper accepted by SIGIR 2021!
 - 01/22/2021: One paper accepted by AISTATS 2021! -->
