@@ -76,5 +76,7 @@ published: true
 
 <!-- ## More -->
 <div style="margin-top: 32px;margin-bottom: 12px;"> </div>
-<p style="font-size: 20px;font-weight: bold;"> *More about me: <a href="{{ site.baseurl }}/CV"> Curriculum Vitae</a></p>
+<!-- <p style="font-size: 20px;font-weight: bold;"> *More about me: <a href="{{ site.baseurl }}/CV"> Curriculum Vitae</a></p> -->
+<p style="font-size: 20px;font-weight: bold;"> *More about me: <a href="https://github.com/jia-yi-chen/jia-yi-chen.github.io/blob/master/_appx/_cv_23.pdf"> Curriculum Vitae</a></p>
+
 
