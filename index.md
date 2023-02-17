@@ -30,7 +30,7 @@ published: true
 
 ## **Research Interest**
 
-<p style="padding-left: 35px;">I am broadly interested in Multimodal Machine Learning (e.g., Vision, Natural Language, Multivariate Time-series, and Spatiotemporal Data). In particular, my research experiences include Heterogeneous Graph Neural Networks, Cross-domain Few-shot Learning by Meta-learning, Privacy-preserving Federated Learning, Deep Generative Models for Sequential/Dynamic Data, Disentanglement, and AutoML. My projects and publications are available [here](/about)</p>
+<p style="padding-left: 35px;">I am broadly interested in Multimodal Machine Learning (e.g., Vision, Natural Language, Multivariate Time-series, and Spatiotemporal Data). In particular, my research experiences include Heterogeneous Graph Neural Networks, Cross-domain Few-shot Learning by Meta-learning, Privacy-preserving Federated Learning, Deep Generative Models for Sequential/Dynamic Data, Disentanglement, and AutoML. My projects and publications are available <a href="/about">here</a>. </p>
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
