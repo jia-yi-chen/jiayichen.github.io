@@ -24,16 +24,16 @@ permalink: /about/
   - *Publication*: under review
 - **Privacy-preserving Few-shot learning with Hetergeneous Domain Shifts across Different Modalities** (11/2021-05/2022)
   - *Keywords*: Multiple Modalities, *Federated* Multitask Learning, On-device Training, Server-client Interaction, *Domain Shifts*, Small Dataset, Partial Observations, Model Transferability 
-  - *Publication*: [[PDF](https://doi.org/10.1145/3534678.3539384)]
+  - *Publication*: **Jiayi Chen**, Aidong Zhang. "FedMSplit: Correlation Adaptive Federated Multitask Learning over Multimodal Split Networks". The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022. (research track) (acceptance rate: 254/1695=14.99%) [[PDF](https://doi.org/10.1145/3534678.3539384)]
 - **Heterogeneous Graph Neural Network for Incomplete Multimodal Data Analysis** (09/2019-05/2020)
   - *Keywords*: Multimedia (Video, Language, and Audio), Graph Neural Networks, Partial Observations 
-  - *Publication*: [[PDF](https://doi.org/10.1145/3394486.3403182)]
+  - *Publication*: **Jiayi Chen**, Aidong Zhang. "HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness". ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020. (research track) (acceptance rate: 216/1279=16.89%) [[PDF](https://doi.org/10.1145/3394486.3403182)]
 - **Context-guided Meta-Learning Approach for Few-shot Learning Across Modalities** (05/2020-02/2021)
   - *Keywords*: Multiple Modalities, Knowledge distillation, Model Transferability, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations
-  - *Publication*: [[PDF](https://dl.acm.org/doi/abs/10.1145/3459637.3482262)]
+  - *Publication*: **Jiayi Chen**, Aidong Zhang. "HetMAML: Task-heterogeneous Model-agnostic Meta-learning for Few-shot Learning Across Modalities". ACM International Conference on Information and Knowledge Management (**CIKM**), 2021. (full paper) (acceptance rate: 271/1251=21.66%) 
 - **Generalizing Topological Structure of Task in Hybrid Few-shot Classification** (08/2020-07/2021)
   - *Keywords*: Multiple Modalities, Graph Neural Networks, Few-shot Learning, Meta-learning, Domain Shifts, Partial Observations, Semi-supervised Learning
-  - *Publication*: accepted by WWW'22
+  - *Publication*: **Jiayi Chen**, Aidong Zhang. "Adaptive Topological Transduction for Hybrid Few-shot Learning". The ACM International World Wide Web Conference (**WWW**) 2022. 
 - **Deep Reinforcement Learning for Human-like Car-Following System** 
   - Built an actor-critic reinforcement learning framework to learn an optimal car-following behavior from empirical data; implemented deep deterministic policy gradient algorithm to learn the continuous-control policy network.
   - *Tools*: Python, PyTorch
